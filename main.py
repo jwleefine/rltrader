@@ -4,9 +4,9 @@ import logging
 import argparse
 import json
 
-from quantylab.rltrader import settings
-from quantylab.rltrader import utils
-from quantylab.rltrader import data_manager
+from src.quantylab.rltrader import settings
+from src.quantylab.rltrader import utils
+from src.quantylab.rltrader import data_manager
 
 
 if __name__ == '__main__':
